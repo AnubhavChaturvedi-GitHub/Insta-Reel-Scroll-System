@@ -20,7 +20,7 @@ This project uses MediaPipe and OpenCV to detect hand gestures and perform corre
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AnubhavChaturvedi-GitHub/HandGestureControlledScrolling.git
+    git clone https://github.com/AnubhavChaturvedi-GitHub/Insta-Reel-Scroll-System.git
     cd HandGestureControlledScrolling
     ```
 
